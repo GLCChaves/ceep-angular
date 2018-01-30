@@ -41,4 +41,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Funcionalidades
 1) Fazer o templatão do CEEP com Angular (Sem separar tudo em componentes ainda) : !!OK!!
 2) Separar todos os componentezinhos <3
-3) 
+    - mural
+    - formNovoCartao
+    -cabecalho
+3) Criar um cartão, com a função dentro do `<form-novo-cartao>`
